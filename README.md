@@ -1,2 +1,2 @@
 # hello-world
-A repository
+A repository that is created for practicing git hub.
